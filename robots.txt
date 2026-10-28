@@ -19,8 +19,8 @@ Allow: /
 User-agent: *
 Disallow: /
 
-Sitemap: https://neulpummassage.netlify.app/sitemap.xml
-Sitemap: https://neulpummassage.netlify.app/sitemap-hub.xml
-Sitemap: https://neulpummassage.netlify.app/sitemap-area.xml
-Sitemap: https://neulpummassage.netlify.app/sitemap-topic.xml
-Sitemap: https://neulpummassage.netlify.app/rss.xml
+Sitemap: https://neulpummassage.pages.dev/sitemap.xml
+Sitemap: https://neulpummassage.pages.dev/sitemap-hub.xml
+Sitemap: https://neulpummassage.pages.dev/sitemap-area.xml
+Sitemap: https://neulpummassage.pages.dev/sitemap-topic.xml
+Sitemap: https://neulpummassage.pages.dev/rss.xml
